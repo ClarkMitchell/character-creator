@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
+      <div style={{backgroundColor: 'hsl(195deg, 20%, 86%)'}}></div>
       <CharacterEditor />
       <Footer />
     </>
